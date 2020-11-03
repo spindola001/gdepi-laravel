@@ -27,4 +27,5 @@ A aplicação consiste em um gerenciador de distribuição de equipamentos de pr
   - _php artisan key:generate_
   - _php artisan migrate_
   - _php artisan serve_
+- Abra seu navegador em http://localhost:8000/
 
