@@ -18,9 +18,13 @@ A aplicação consiste em um gerenciador de distribuição de equipamentos de pr
 
 - _git clone https://github.com/spindola001/gdepi-laravel.git_;
 - Crie um banco de dados MySql nomeado de gdepi01_db
-- Inicie o PHPMyAdmin
+- Inicie o servidor PHP
 
 ## No diretório da aplicação:
 
-- Rode o comando: _php artisan migrate_ e _php artisan serve_
+- Rode o comando:
+  - _composer install_
+  - _php artisan key:generate_
+  - _php artisan migrate_
+  - _php artisan serve_
 
