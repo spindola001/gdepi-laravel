@@ -22,7 +22,7 @@ A aplicação consiste em um gerenciador de distribuição de equipamentos de pr
 
 ## No diretório da aplicação:
 
-- Rode o comando:
+- Rode os comandos:
   - _composer install_
   - _php artisan key:generate_
   - _php artisan migrate_
